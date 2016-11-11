@@ -1,0 +1,46 @@
+body {
+    background-image: url("backgroundpl.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1 {
+    font-size: 80px;
+    color:white;
+    text-align:left;
+    font: 3.2rem/1.40 clarendonLight, Georgia;
+}
+
+h2 {
+    font-size: 40px;
+    color:white;
+    text-align: left;
+    font: 3.2rem/1.40 clarendonLight, Georgia;
+	display:inline-block;
+}
+
+.knop{
+    background-color:white;
+    font-size: 32px;
+}
+
+.pincode{
+    font-size: 40px;
+    width: 200px;
+}
+
+.an_image {
+    height: 169px;
+    width: 199px;
+}
+
+.col-md-4 .text{
+}
+
+.container{
+    background-size: 7px;
+    height: 100%;
+    width: 100%;
+    visibility: visible;
+
+}
